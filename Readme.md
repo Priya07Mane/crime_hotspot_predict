@@ -15,18 +15,18 @@ A machine learning-powered dashboard that predicts and visualizes high-crime dis
 - **Model Explainability**: Shows feature importance and decision factors
 
 ## 🤖 Model Details
-**Algorithm:** Random Forest Classifier
-**Input Features:**
-Total assault cases
-Sexual harassment incidents
-Victim ratios
-Location-based risk factors
-Output: Binary classification (Hotspot/Safe) with probability score
+- **Algorithm:** Random Forest Classifier
+- **Input Features:**
+  - Total assault cases
+  - Sexual harassment incidents
+  - Victim ratios
+  - Location-based risk factors
+  - Output: Binary classification (Hotspot/Safe) with probability score
 
 ## 📊 Data Sources
-Karnataka Police Department crime records
-DataMeet Karnataka GeoJSON
-Census demographic data (optional en
+  - Karnataka Police Department crime records
+  - DataMeet Karnataka GeoJSON
+  - Census demographic data (optional en
 
 ![Dashboard Screenshot](./assects/1.png) 
 ![Dashboard Screenshot](./assects/2.png) 
