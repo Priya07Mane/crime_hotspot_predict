@@ -26,7 +26,7 @@ A machine learning-powered dashboard that predicts and visualizes high-crime dis
 ## 📊 Data Sources
   - Karnataka Police Department crime records
   - DataMeet Karnataka GeoJSON
-  - Census demographic data (optional en
+  - Census demographic data 
 
 ![Dashboard Screenshot](./assects/1.png) 
 ![Dashboard Screenshot](./assects/2.png) 
